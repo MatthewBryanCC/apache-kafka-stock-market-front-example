@@ -1,0 +1,15 @@
+.logo { max-width: 250px;}
+.styleHeader {
+    padding: 20px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin-left: 20px;
+    float: right;
+}
